@@ -9,7 +9,7 @@
 <ul id="messagesList"></ul>
 
 <label for="messageText">Ваше сообщение:</label>
-<input type="text" id="messageText" placeholder="Введите ваше сообщение" />
+<input type="text" id="messageText" placeholder="Какое сообщение, о чем речь?" />
 <button onclick="postMessage()">Отправить</button>
 
 <script>
